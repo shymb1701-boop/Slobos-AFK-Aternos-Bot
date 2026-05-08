@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SQUIX_SMP_S1.aternos.me",
-    "port": 12719,
+    "ip": "PhoenixSMP6.aternos.me",
+    "port": 37358,
     "version": "",
     "try-creative": false
   },
